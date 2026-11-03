@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/IonTulbure1/sda/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/IonTulbure1/sda/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/IonTulbure1/sda/tree/master/0088-merge-sorted-array) |
 | [0704-binary-search](https://github.com/IonTulbure1/sda/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/IonTulbure1/sda/tree/master/0912-sort-an-array) |
@@ -79,5 +80,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/IonTulbure1/sda/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/IonTulbure1/sda/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
