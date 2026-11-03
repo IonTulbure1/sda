@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/IonTulbure1/sda/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/IonTulbure1/sda/tree/master/0088-merge-sorted-array) |
+| [0912-sort-an-array](https://github.com/IonTulbure1/sda/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,4 +50,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/IonTulbure1/sda/tree/master/0088-merge-sorted-array) |
+| [0912-sort-an-array](https://github.com/IonTulbure1/sda/tree/master/0912-sort-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/IonTulbure1/sda/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/IonTulbure1/sda/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/IonTulbure1/sda/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/IonTulbure1/sda/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/IonTulbure1/sda/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/IonTulbure1/sda/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
