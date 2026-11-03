@@ -85,4 +85,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/IonTulbure1/sda/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/IonTulbure1/sda/tree/master/0704-binary-search) |
+## Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/IonTulbure1/sda/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/IonTulbure1/sda/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/IonTulbure1/sda/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
